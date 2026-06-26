@@ -2,18 +2,21 @@
 
 ## Kenya Political Economy: Ethnic Geography and Corruption (Python)
 [`KenyaPoliticalEconomy_DataCleaningSample.ipynb`](KenyaPoliticalEconomy_DataCleaningSample.ipynb) 
+
 Python geospatial and survey data cleaning sample.
 Constructs county-level measures of ethnic residential sorting and corruption 
 for Kenya using Afrobarometer, SIDE raster data, and county boundary GeoJSON.
 
 ## MLDA Regression Discontinuity Analysis (Python)
 [`ImpactEvalPS3_RegressionSample.ipynb`](ImpactEvalPS3_regressionsample.ipynb) 
+
 Python regression and graph code sample. 
 Replicates sharp RD estimates of the effect of the minimum legal drinking age 
 on mortality rates, with figures and a programmatically generated LaTeX table.
 
 ## Regression Table Latex Sample (LaTeX)
 [`PS3_LatexRegressionTableSample.tex`](PS3_LatexRegressionTableSample.tex) 
+
 Latex sample for the output table from "ImpactEval3.ipynb"
 
 ## Gas Station Antitrust Analysis (Stata)
