@@ -6,7 +6,7 @@ analysis. Prepared as part of applications for economics
 research positions. 
 
 If viewing only one file, `KenyaPoliticalEconomy_DataCleaningSample.ipynb` 
-provides the represents the broadest demonstration of technical range.
+represents the broadest demonstration of technical range.
 
 ## Kenya Political Economy: Ethnic Geography and Corruption (Python)
 [`KenyaPoliticalEconomy_DataCleaningSample.ipynb`](KenyaPoliticalEconomy_DataCleaningSample.ipynb) 
