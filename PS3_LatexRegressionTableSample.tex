@@ -1,0 +1,46 @@
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{array}
+
+\begin{document}
+
+\begin{table}[htbp]
+\centering
+\caption{Sharp RD estimates of MLDA effects on mortality}
+\makebox[\textwidth][c]{%
+\resizebox{1.03\textwidth}{!}{%
+
+\label{tab:mlda}
+\begin{tabular}{p{4cm} >{\centering\arraybackslash}p{2.4cm} >{\centering\arraybackslash}p{2.4cm} >{\centering\arraybackslash}p{2.4cm} >{\centering\arraybackslash}p{2.4cm}}
+\toprule
+ & \multicolumn{2}{c}{Ages 19--22} & \multicolumn{2}{c}{Ages 20--21} \\
+\cmidrule(lr){2-3} \cmidrule(lr){4-5}
+Dependent variable & (1) & (2) & (3) & (4) \\
+\midrule
+All deaths & 7.663 & 9.548 & 9.753 & 9.611 \\
+ & (1.514) & (1.830) & (2.064) & (2.291) \\
+Motor vehicle accidents & 4.534 & 4.663 & 4.759 & 5.892 \\
+ & (0.717) & (1.093) & (1.082) & (1.329) \\
+Suicide & 1.794 & 1.814 & 1.724 & 1.297 \\
+ & (0.496) & (0.782) & (0.733) & (1.140) \\
+Homicide & 0.104 & 0.200 & 0.164 & -0.453 \\
+ & (0.450) & (0.502) & (0.589) & (0.927) \\
+Other external causes & 0.441 & 1.178 & 0.831 & 1.346 \\
+ & (0.292) & (0.348) & (0.368) & (0.425) \\
+All internal causes & 0.392 & 1.073 & 1.692 & 1.249 \\
+ & (0.543) & (0.802) & (0.745) & (1.012) \\
+Alcohol-related disease & 0.442 & 0.799 & 0.740 & 1.028 \\
+ & (0.206) & (0.324) & (0.333) & (0.413) \\
+Controls & age & age, age$^2$, interactions with over-21 & age & age, age$^2$, interactions with over-21 \\
+Sample size & 48 & 48 & 24 & 24 \\
+\midrule
+\multicolumn{5}{p{\linewidth}}{\footnotesize Entries are coefficients on the over-21 indicator dummy. Standard errors (HC1) are in parentheses. Columns (1) and (3) include linear age controls. Columns (2) and (4) additionally include quadratic age controls and interactions.} \\
+\bottomrule
+\end{tabular}
+}%
+}
+
+\end{table}
+
+\end{document}
