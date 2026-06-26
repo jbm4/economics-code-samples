@@ -17,7 +17,7 @@ on mortality rates, with figures and a programmatically generated LaTeX table.
 ## Regression Table Latex Sample (LaTeX)
 [`PS3_LatexRegressionTableSample.tex`](PS3_LatexRegressionTableSample.tex) 
 
-Latex sample for the output table from "ImpactEval3.ipynb"
+Latex sample for the output table from "ImpactEval3.ipynb", rendered as [`PS3_LatexRegressionTableSample.pdf`](PS3_LatexRegressionTableSample.pdf).
 
 ## Gas Station Antitrust Analysis (Stata)
 [`MarketShare_StataSample.do`](MarketShare_StataSample.do) 
