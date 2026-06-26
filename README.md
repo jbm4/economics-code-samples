@@ -1,5 +1,13 @@
 # Economics Code Samples
 
+Code samples in Python, Stata, and LaTeX demonstrating experience with 
+geospatial data cleaning and analysis, regression discontinuity methods, and antitrust 
+analysis. Prepared as part of applications for economics 
+research positions. 
+
+If viewing only one file, `KenyaPoliticalEconomy_DataCleaningSample.ipynb` 
+provides the represents the broadest demonstration of technical range.
+
 ## Kenya Political Economy: Ethnic Geography and Corruption (Python)
 [`KenyaPoliticalEconomy_DataCleaningSample.ipynb`](KenyaPoliticalEconomy_DataCleaningSample.ipynb) 
 
@@ -17,19 +25,16 @@ on mortality rates, with figures and a programmatically generated LaTeX table.
 ## Regression Table Latex Sample (LaTeX)
 [`PS3_LatexRegressionTableSample.tex`](PS3_LatexRegressionTableSample.tex) 
 
-Latex sample for the output table from "ImpactEval3.ipynb", rendered as [`PS3_LatexRegressionTableSample.pdf`](PS3_LatexRegressionTableSample.pdf).
+Latex sample for the output table from `ImpactEvalPS3_RegressionSample.ipynb`, rendered as [`PS3_LatexRegressionTableSample.pdf`](PS3_LatexRegressionTableSample.pdf).
 
 ## Gas Station Antitrust Analysis (Stata)
 [`MarketShare_StataSample.do`](MarketShare_StataSample.do) 
 
-Using Stata, verifies a competitive effects analysis for a chain 
-of nine Valero-branded gas stations (TB II–XVI and OB I) in the Phoenix, AZ 
-metro area, with OPIS price and location data.
-
 Replicates great-circle distance calculations in Stata, then constructs antitrust 
 diversion ratios under three geographic market definitions 
-(unrestricted, within 10 miles, within 5 miles),used to assess the degree 
-of competitive substitutability between the focal stores and surrounding stations.
+(unrestricted, within 10 miles, within 5 miles), used to assess the degree 
+of competitive substitutability between the focal stores and surrounding stations,
+for antitrust litigation analysis.
 
 ## Data
 Data files are not included in this repository. Sources:
