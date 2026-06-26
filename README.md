@@ -8,14 +8,14 @@ research positions.
 If viewing only one file, `KenyaPoliticalEconomy_DataCleaningSample.ipynb` 
 represents the broadest demonstration of technical range.
 
-## Kenya Political Economy: Ethnic Geography and Corruption (Python)
+## Kenya Political Economy: Ethnic Geography and Corruption (Python: Data Cleaning)
 [`KenyaPoliticalEconomy_DataCleaningSample.ipynb`](KenyaPoliticalEconomy_DataCleaningSample.ipynb) 
 
 Python geospatial and survey data cleaning sample.
 Constructs county-level measures of ethnic residential sorting and corruption 
 for Kenya using Afrobarometer, SIDE raster data, and county boundary GeoJSON.
 
-## MLDA Regression Discontinuity Analysis (Python)
+## MLDA Regression Discontinuity Analysis (Python: Regressions and Data Visualization)
 [`ImpactEvalPS3_RegressionSample.ipynb`](ImpactEvalPS3_regressionsample.ipynb) 
 
 Python regression and graph code sample. 
